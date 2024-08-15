@@ -1,0 +1,17 @@
+.bw,
+.by {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    cursor:default
+}
+
+.bw{
+    color:white;
+    background-color: black;
+}
+
+.by{
+    color: black;
+    background-color: yellow;
+    outline-color: black;
+}
